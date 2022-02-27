@@ -1,0 +1,11 @@
+Dataset yang diujicoba :
+
+1. Dataset Iris, yaitu =>
+	a. Petal Width vs Petal Length
+	b. Sepal Width vs Sepal Length
+2. Dataset Wine, yaitu =>
+	a. Alcohol vs Malic Acid
+	b. Alcohol vs Flavanoids
+3. Dataset Breast_Cancer, yaitu =>
+	a. Radius vs Smoothness
+	b. Smoothness vs Compactness
